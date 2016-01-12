@@ -13,3 +13,7 @@ Create a simple tcp logging server. This server should receive tcp requests and 
 Rubric
 
 unique name: 4pts logging into file: 4pts testing: 2pts
+
+References
+https://github.com/isabellaorgan/create_a_tcp_server
+https://github.com/dvicklund/create_a_tcp_server
