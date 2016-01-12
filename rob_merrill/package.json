@@ -1,0 +1,33 @@
+{
+  "name": "tcp_server",
+  "version": "1.0.0",
+  "description": "tcp server",
+  "main": "tcp_server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robgmerrill/tcp_server.git"
+  },
+  "keywords": [
+    "tcp",
+    "server",
+    "socket"
+  ],
+  "author": "Rob Merrill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robgmerrill/tcp_server/issues"
+  },
+  "homepage": "https://github.com/robgmerrill/tcp_server#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "gulp": "^3.9.0",
+    "gulp-mocha": "^2.2.0",
+    "mocha": "^2.3.4"
+  }
+}
